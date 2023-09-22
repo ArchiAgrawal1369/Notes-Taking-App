@@ -14,11 +14,12 @@ The Notes Taking Application stores notes of different users and deletes all the
 ## Frontend
 <ul>
   <li> Home Component
-<img src="Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
-    </li>
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
+  </li>
   <li> Registration Component
-  <img src="Frontend-Application/src/assets/Screenshot 2023-09-22 162452.png"></li>
-  <li>
-    Login Component<img src="Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162452.png">
+  </li>
+  <li>  Login Component
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
   </li>
 </ul>

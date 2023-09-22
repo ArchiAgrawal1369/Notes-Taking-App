@@ -1,0 +1,22 @@
+<main>
+    <a id="logout" (click)="logout()"><button class="btn btn-dark mt-5" type="submit">Logout</button></a>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 offset-md-3 mt-5">
+          <h4 class="text-center mb-4"><i>Edit Note</i></h4>
+          <form [formGroup]="editNote" (ngSubmit)="editNoteFunction()">
+            <div class="form-group">
+              <label>Title</label>
+              <input type="text" class="form-control" formControlName="noteTitle">
+            </div>
+            <div class="form-group">
+              <label >Note</label>
+              <textarea class="form-control" formControlName="noteDescription" maxlength="500" rows="5" ></textarea>
+            </div>
+            <button type="submit" class="btn btn-dark">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+    </main>

@@ -1,0 +1,30 @@
+<main>
+<a id="logout" (click)="logout()"><button class="btn btn-dark mt-5" type="submit">Logout</button></a>
+
+      <h4> YOUR <span id="pop">NOTES</span> SPACE</h4>
+
+<a (click)="addNoteFunction()"><button class="btn btn-dark col-3" id="add" type="submit">Add Note</button></a>
+<table class="table table-hover table-light">
+    <thead class="thead thead-dark">
+        <tr>
+            <th>Note ID</th>
+            <th>Title</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody class="table-group-divider">
+        <tr *ngFor="let item of collection">
+            <td>
+                {{item.noteId}}
+            </td>
+            <td>
+                <a routerLink="/note/{{item.noteId}}" class="text-dark">{{item.noteTitle}}</a>
+            </td>
+            <td>
+            <a routerLink="/editNote/{{this.userEmail}}/{{item.noteId}}"><button class="btn btn-dark btn-sm mx-1 ">Edit</button></a>
+            <a (click)="deleteDetail(item.noteId)"><button class="btn btn-dark btn-sm mx-1 ">Delete</button></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+</main>

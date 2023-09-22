@@ -1,0 +1,19 @@
+<main>
+  <a id="logout" (click)="logout()"><button class="btn btn-dark mt-5" type="submit">Logout</button></a>
+
+    <div class="container">
+        <div class="row">
+          <div class="col-md-6 offset-md-3">
+            <div class="card bg-light mt-5">
+                <div class="card-body">
+                <h3 class="card-title text-center">{{noteTitle}} </h3>
+                <ul class="list-group ">
+                    <li class="list-group-item"><strong>Time:</strong> {{noteTime}}</li>
+                    <li class="list-group-item"><strong> Description:</strong> {{noteDesc}} </li>
+                </ul>
+            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>

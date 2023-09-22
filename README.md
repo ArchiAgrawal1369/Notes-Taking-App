@@ -23,12 +23,12 @@ The Notes Taking Application stores notes of different users and deletes all the
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
   </li><br>
   <li>  View Note Component with Guards.<br>
-    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163943.png">
   </li><br>
   <li>  Add Note Component with Guards.<br>
-    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163959.png">
   </li><br>
   <li>  Edit Note Component Guards.<br>
-    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 164042.png">
   </li><br>
 </ul>

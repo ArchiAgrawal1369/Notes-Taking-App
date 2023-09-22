@@ -13,13 +13,13 @@ The Notes Taking Application stores notes of different users and deletes all the
 
 ## Frontend
 <ul>
-  <li> Home Component
+  <li> Home Component<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
-  </li>
-  <li> Registration Component
+  </li><br>
+  <li> Registration Component with appropriate form validation<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162452.png">
-  </li>
-  <li>  Login Component
+  </li><br>
+  <li>  Login Component with appropriate form validation<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
-  </li>
+  </li><br>
 </ul>

@@ -12,3 +12,4 @@ The Notes Taking Application stores notes of different users and deletes all the
 </ul>
 
 ## Frontend
+<img src="Frontend-Application/src/assets/Screenshot_2023-09-22_162350.png">

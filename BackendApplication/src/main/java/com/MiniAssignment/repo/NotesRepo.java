@@ -12,7 +12,7 @@ public interface NotesRepo extends JpaRepository<Notes,Integer>{
 	
 	public Notes findByNoteId(int noteId);
 	
-	public List<Notes> findTop3ByUserEmailIdOrderByNoteTimeDesc(String userEmailId);
+	public List<Notes> findTop10ByUserEmailIdOrderByNoteTimeDesc(String userEmailId);
 	public List<Notes> findAllByUserEmailIdOrderByNoteTimeDesc(String userEmailId);
 	Page<Notes> findAll(Pageable pageable);  
 	

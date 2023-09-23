@@ -1,4 +1,5 @@
 # Notes-Taking-App
+### ANgular + SpringBoot based Notes Taking Web Application
 
 The Notes Taking Application stores notes of different users and deletes all the notes other than last 10 recent notes on the hourly basis. It has been developed using Angular for frontend and SpringBoot for backend APIs.
 
@@ -22,8 +23,11 @@ The Notes Taking Application stores notes of different users and deletes all the
   <li>  Login Component with appropriate form validation.<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
   </li><br>
-  <li>  View Note Component with Guards.<br>
+  <li>  View All Notes Component with Guards.<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163943.png">
+  </li><br>
+  <li>  View Note Description Component.<br>
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-23 144834.png">
   </li><br>
   <li>  Add Note Component with Guards.<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163959.png">

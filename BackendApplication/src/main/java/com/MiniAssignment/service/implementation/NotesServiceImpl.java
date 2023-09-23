@@ -36,7 +36,7 @@ public class NotesServiceImpl implements NotesService{
 	//Get all notes
 	@Override
 	public List<Notes> fetchAllNotes(String userId)
-	{	return repo.findTop3ByUserEmailIdOrderByNoteTimeDesc(userId);
+	{	return repo.findTop10ByUserEmailIdOrderByNoteTimeDesc(userId);
 	}
 	
 	//Get note details by note ID

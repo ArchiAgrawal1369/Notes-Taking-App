@@ -27,7 +27,7 @@ The Notes Taking Application stores notes of different users and deletes all the
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163943.png">
   </li><br>
   <li>  View Note Description Component.<br>
-    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-23 144834.png">
+    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-23 150235.png">
   </li><br>
   <li>  Add Note Component with Guards.<br>
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163959.png">

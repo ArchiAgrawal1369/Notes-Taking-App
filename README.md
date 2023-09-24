@@ -1,7 +1,7 @@
 # Notes-Taking-App
-#### Angular + SpringBoot based Notes Taking Web Application
+#### Notes Taking Web Application | Technologies Used : Angular + SpringBoot + JPA + Java based 
 
-The Notes Taking Application stores notes of different users and deletes all the notes other than last 10 recent notes on the hourly basis. It has been developed using Angular for frontend and SpringBoot for backend APIs.
+The Notes Taking Application stores notes of different users, where a user can login and view 10 recent notes. The application deletes all the notes other than last 10 recent notes on the hourly basis using a cron job. It has been developed using Angular for implementing user authentication and CRUD operations in the frontend, and SpringBoot for exposing REST APIs in the backend.
 
 ## Backend
 <ul>

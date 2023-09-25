@@ -15,26 +15,31 @@ The Notes Taking Application stores notes of different users, where a user can l
 
 ## Frontend
 Run `ng serve` and navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-<ul>
-<li>**Home Component. **
+
+#### Home Component.
+
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
-</li><br>
-<li>**Registration Component with appropriate form validation.**
+
+#### Registration Component with appropriate form validation.
+
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162452.png">
-</li><br>
-<li>**Login Component with appropriate form validation.**
+
+#### Login Component with appropriate form validation.
+    
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162436.png">
-</li><br>
-<li>**View All Notes Component with Guards.**
+
+#### View All Notes Component with Guards.
+    
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163943.png">
-</li><br>
-<li>**View Note Description Component.**
+
+#### View Note Description Component.
+    
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-23 150235.png">
-</li><br>
-<li**>Add Note Component with Guards.**
+
+#### Add Note Component with Guards.
+    
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 163959.png">
- </li><br>
-<li>**Edit Note Component Guards.**
+
+#### Edit Note Component Guards.
+    
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 164042.png">
-</li><br>
-</ul>

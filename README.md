@@ -17,7 +17,7 @@ The Notes Taking Application stores notes of different users, where a user can l
 Run `ng serve` and navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 <ul>
 <li>Home Component.
-    <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
+    <img width=600px src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162350.png">
 </li><br>
 <li>Registration Component with appropriate form validation.
     <img src="./Frontend-Application/src/assets/Screenshot 2023-09-22 162452.png">
